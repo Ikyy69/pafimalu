@@ -1,1 +1,368 @@
-# pafimalu
+
+
+<!DOCTYPE html>
+<html amp lang="id">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="canonical" href="https://barcelonaeatlocal.com/">
+	<link rel="icon" type="image/x-icon" href="https://i.postimg.cc/HjGfDKhn/huu.png">
+    <title>SLOTGACOR # Rasakan Sensasi Kemenangan Jutaan di Situs Slot Gacor 2024</title>
+    <meta name="title" content="SLOTGACOR # Rasakan Sensasi Kemenangan Jutaan di Situs Slot 2024">
+    <meta name="google-site-verification" content="fi-UlF2En7YIaBSI12eY6xc4Wk_ppsdCQAU-Ijd6t2k" />
+<meta name="google-site-verification" content="7mG0xfws6001Z5hdoT-6RSf4zf6Nus7IwPdy5scEOlk" />
+<meta name="google-site-verification" content="kLEPpRbQHKYy7QRR-wpfud0cywRp01_EVKwh4sNiM88" />
+<meta name="google-site-verification" content="ibCtva0S2HI9oZIhNgKnHwG5YEY5JJSlZjJXfyT9HE4" />
+<link rel="preload" href="https://i.postimg.cc/yYQZjH27/SLOTGACOR1.webp" as="image">
+    <meta name="description" content="SLOTGACOR memberikan rasa sensasi kemenangan tahun 2024 yang tidak bisa ditemukan di situs slot manapun hanya dengan modal receh menangkan jutaan saat ini juga.">
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none;
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        .atasbox,
+        .center,
+        .footer {
+            text-align: center
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }
+
+        :focus {
+            outline: 0
+        }
+
+        ::-webkit-scrollbar {
+            display: none
+        }
+
+        a,
+        a:after,
+        a:hover,
+        a:visited {
+            text-decoration: none;
+            color: #dfdfdf;
+        }
+
+        html {
+            max-width: 500px;
+            margin: 0 auto;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-image: url("https://cdn.robotaset.com/assets/tpl/7c32aa6873/images/background.jpg");
+        }
+
+        body {
+            color: #dfdfdf;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        h2 {
+            margin: 20px;
+            padding: 10px;
+            background-color: #1f1f1f;
+            border-bottom: 2px solid transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #9002fc, #6424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            border-radius: 10px;
+        }
+
+        button {
+            margin: 5px 5px 50px 5px;
+            width: 50%; height: 40px; 
+            background-image: linear-gradient(#494949, #2e2e2e); 
+            color: #b6b6b6;
+            font-size: 0.8em; 
+            border-radius: 10px;
+            font-weight: bold;
+            transition: 0.5s all;
+        }
+
+        button:hover {
+            border-bottom: 2px solid transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #9002fc, #6424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            color: #fff;
+        }
+
+        .atas {
+            display: grid;
+            min-height: 85vh;
+        }
+
+        .atasbox {
+            margin: auto;
+        }
+
+        .ataslink {
+            display: inline-grid;
+            margin: 1rem;
+        }
+
+        .ataslink a {
+            margin: 0 0 20px 0;
+            color: #fff;
+            position: relative;
+            font-size: 0.8em;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding: 16px 35px;
+            border-radius: 25px;
+            overflow: hidden;
+            border: 3px double transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #9002fc, #6424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            transition: 0.5s all;
+        }
+
+        .logo-kiri {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            width: 50px;
+            transform: translateY(-50%);
+        }
+
+        .logo-kanan {
+            position: absolute;
+            right: 0;
+            top: 50%;
+            width: 50px;
+            transform: translateY(-50%);
+        }
+
+        .ataslink a:hover {
+            color: #1f1f1f;
+            background-image: linear-gradient(#9002fc, #6424be), radial-gradient(circle at left top, #6424be, #6424be)
+        }
+
+        .ataslink a:hover span {
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            transition: .2s;
+        }
+
+        .ataslink span:after {
+            content: '\00bb';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: .2s;
+        }
+
+        .debar {
+            animation: 1.5s ease 0s infinite beat;
+            margin: 0px 25px 0 25px;
+        }
+
+        @keyframes beat {
+
+            0%,
+            50%,
+            100% {
+                transform: scale(1, 1);
+            }
+
+            30%,
+            80% {
+                transform: scale(0.92, 0.95);
+            }
+        }
+
+        @keyframes pulse {
+
+            0%,
+            50%,
+            100% {
+                background: #fee;
+            }
+
+            30%,
+            80% {
+                background: #fff;
+            }
+        }
+
+        .klikajah:hover span {
+            padding-right: 20px;
+            transition: .2s
+        }
+
+        .klikajah:hover span:after {
+            opacity: 1;
+            right: 0
+        }
+
+        .center {
+            margin-bottom: 10px
+        }
+
+        .imghero {
+            border-radius: 8px;
+            border: 2px solid #fff;
+            margin: 1rem;
+        }
+
+        .demo {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-gap: 5px;
+            overflow: hidden;
+            margin: 20px;
+
+        }
+    
+        .demo-gim {
+            padding: 15px;
+            text-align: center;
+            border: 2px double transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #9002fc, #6424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            transition: 0.5s all;
+        }
+
+        .demo-gim:hover {
+            color: #1f1f1f;
+            background-image: linear-gradient(#6424be 20%, #000 80%), radial-gradient(circle at left top, #6424be, #9002fc);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+        }
+      
+        .nama-gim {
+            font-size: 0.6em;
+            font-weight: bold;
+            padding: 5px;
+            margin: 10px 0 0 0;
+        }
+
+        .demo-gim amp-img {
+            border-radius: 10px;
+        }
+
+        .footer {
+            position: absolute;
+            left: 0;
+            bottom: 50;
+            width: 100%;
+            font-size: 0.7em;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="atas">
+            <div class="atasbox">
+                <div>
+                    <amp-img class="imghero" height="700" width="700" layout="responsive" alt="SLOTGACOR"
+                        src="https://i.postimg.cc/g0dDD0Fn/gg.jpg"></amp-img>
+                </div>
+                <div class="ataslink">
+                    <a href="https://t.ly/kerenkan1" class="klikajah" rel="nofollow">
+                        <img src="https://res.cloudinary.com/dsmgkmvwo/image/upload/v1717411649/ICON_DAFTAR_pwjmxm.png" class="logo-kiri">
+                        <div class="debar">Daftar SLOTGACOR</div>
+                        <img src="https://res.cloudinary.com/dsmgkmvwo/image/upload/v1717411649/ICON_DAFTAR_pwjmxm.png" class="logo-kanan">
+                    </a>
+                    <a href="https://t.ly/kerenkan1" class="klikajah" rel="nofollow">
+                        <img src="https://res.cloudinary.com/dsmgkmvwo/image/upload/v1717411649/ICON_LOGIN_ytme0w.png" class="logo-kiri">
+                        <div class="debar">Login SLOTGACOR</div>
+                        <img src="https://res.cloudinary.com/dsmgkmvwo/image/upload/v1717411649/ICON_LOGIN_ytme0w.png" class="logo-kanan">
+                    </a>
+                    <a href="https://t.ly/kerenkan1" class="klikajah" rel="nofollow">
+                        <img src="https://res.cloudinary.com/dsmgkmvwo/image/upload/v1717411649/ICON_BONUS_n6zngk.png" class="logo-kiri">
+                        <div class="debar">Livechat</div>
+                        <img src="https://res.cloudinary.com/dsmgkmvwo/image/upload/v1717411649/ICON_BONUS_n6zngk.png" class="logo-kanan">
+                    </a>
+                </div>
+                <a href="https://t.ly/kerenkan1" rel="nofollow">
+                    <button>Link Alternatif SLOTGACOR »</button>
+                </a>
+                <div class="footer">
+                    <p>&copy;2024 | SLOTGACOR # Rasakan Sensasi Kemenangan Jutaan di Situs Slot Gacor 2024</p>
+                    <p>SLOTGACOR</p>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
